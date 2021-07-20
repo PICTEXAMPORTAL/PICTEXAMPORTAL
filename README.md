@@ -1,4 +1,5 @@
 ### Hi there 👋
+This is Exam Portal excusively designed for PICT.
 
 <!--
 **PICTEXAMPORTAL/PICTEXAMPORTAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
