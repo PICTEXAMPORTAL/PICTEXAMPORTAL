@@ -130,6 +130,7 @@ body::after {
   color: #fff;
   font-weight: 200;
   font-family: sans-serif;
+  margin-top: 15px;
 }
 
 @media (max-width:1300px) and (min-width:1220px) {
