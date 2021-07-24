@@ -122,7 +122,7 @@ body::after {
 .cards .fa-linkedin{
   transform: translateY(100px);
   transition:0.4s;
-  opacity:0
+  opacity:0;
 }
 .cards:hover .fa-linkedin{
   transform: translateY(0px);
@@ -133,7 +133,7 @@ body::after {
 .cards .fa-instagram{
   transform: translateY(100px);
   transition:0.6s;
-  opacity:0
+  opacity:0;
 }
 .cards:hover .fa-instagram{
   transform: translateY(0px);
@@ -143,7 +143,7 @@ body::after {
 .cards .fa-twitter{
   transform: translateY(100px);
   transition:0.6s;
-  opacity:0
+  opacity:0;
 }
 .cards:hover .fa-twitter{
   transform: translateY(0px);
