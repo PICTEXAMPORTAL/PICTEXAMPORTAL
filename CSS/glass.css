@@ -119,15 +119,45 @@ body::after {
   font-size: 1.5rem;
   color: #fff;
 }
+.cards .fa-linkedin{
+  transform: translateY(100px);
+  transition:0.4s;
+  opacity:0
+}
+.cards:hover .fa-linkedin{
+  transform: translateY(0px);
+  transition:0.4s;
+  opacity:1 ;
+}
 
 .cards .fa-instagram{
   transform: translateY(100px);
-  transition:0.5s;
+  transition:0.6s;
   opacity:0
 }
 .cards:hover .fa-instagram{
   transform: translateY(0px);
-  transition:0.5s;
+  transition:0.6s;
+  opacity:1 ;
+}
+.cards .fa-twitter{
+  transform: translateY(100px);
+  transition:0.6s;
+  opacity:0
+}
+.cards:hover .fa-twitter{
+  transform: translateY(0px);
+  transition:0.6s;
+  opacity:1 ;
+}
+.cards .fa-github{
+  transform: translateY(100px);
+  transition:0.8s;
+  opacity:0
+}
+.cards:hover .fa-github{
+  transform: translateY(0px);
+  transition:0.8s;
   opacity:1 ;
 }
 
