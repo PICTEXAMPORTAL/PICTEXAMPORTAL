@@ -120,9 +120,15 @@ body::after {
   color: #fff;
 }
 
-.cards i:hover {
-  font-size: 3rem;
-  transition: 0.5s;
+.cards .fa-instagram{
+  transform: translateY(100px);
+  transition:0.5s;
+  opacity:0
+}
+.cards:hover .fa-instagram{
+  transform: translateY(0px);
+  transition:0.5s;
+  opacity:1 ;
 }
 
 .cards .content p {
